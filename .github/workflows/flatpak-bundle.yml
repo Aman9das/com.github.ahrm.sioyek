@@ -17,3 +17,4 @@ jobs:
           bundle: sioyek.flatpak
           manifest-path: com.github.ahrm.sioyek.yaml
           cache-key: flatpak-builder-${{ github.sha }}
+          branch: beta
