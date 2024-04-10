@@ -2,7 +2,7 @@
 app-id: com.github.ahrm.sioyek
 
 runtime: org.kde.Platform
-runtime-version: 5.15-23.08
+runtime-version: 6.6
 sdk: org.kde.Sdk
 
 command: sioyek
@@ -50,7 +50,7 @@ modules:
     sources:
       - type: git
         url: https://github.com/ahrm/sioyek.git
-        commit: 35a550e8e8a6d179ed877ca6b0207da009620fb6
+        commit: 0c0507a567dfe755bf8e7db7e4c698b581b62bbd
       # - type: patch
       #   path: patch/sioyek_build_fix.patch
       - type: file
