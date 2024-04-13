@@ -50,7 +50,7 @@ modules:
     sources:
       - type: git
         url: https://github.com/ahrm/sioyek.git
-        commit: 0c0507a567dfe755bf8e7db7e4c698b581b62bbd
+        commit: 88fd49550af384568d185ee8f1686cc0b54d4fa2
       # - type: patch
       #   path: patch/sioyek_build_fix.patch
       - type: file
