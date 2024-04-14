@@ -8,5 +8,5 @@ Terminal=false
 Type=Application
 Keywords=pdf;viewer;research;
 Categories=Office;Viewer;
-MimeType=application/pdf;
+MimeType=application/pdf;application/epub+zip;
 StartupNotify=false
